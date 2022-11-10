@@ -3,6 +3,6 @@
 i=0
 until [ $i -eq 10 ];
 do
-	printf "Holberton School\n"
+	printf "Best School\n"
 	i=$((i+1))
 done
